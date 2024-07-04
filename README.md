@@ -1,2 +1,1 @@
-# PRODIGY_SD_02
-SOFTWARE DEVELOPMENT TASK 2
+This task is to create a program that generates a random number and prompt the user to guess the number untill the number is correct and finally prints the number of attempts taken to complete the game
